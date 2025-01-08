@@ -6,4 +6,4 @@
 </div>
 
 ## Deskripsi
-Makalah ini menganalisa permainan-permainan dalam seri Squid Game menggunakan konsep-konsep kombinatorika. Permainan yang dianalisa adalah permainan Glass Stepping Stones, Rock, Paper, Scissor Minus One & Russian Roulette, dan Mingle. Konsep-konsep yang digunakan antara lain kaidah dasar menghitung, kombinasi, teori graf dan implementasinya. Pada permainan Glass Stepping Stones, algoritma Breadth First Search diimplementasikan untuk menemukan jalur yang aman dan menjamin jalur tersebut merupakan jalur terpendek.
+Makalah ini menganalisa permainan-permainan dalam seri Squid Game menggunakan konsep-konsep kombinatorika. Permainan yang dianalisa adalah permainan Glass Stepping Stones, Rock, Paper, Scissor Minus One & Russian Roulette, dan Mingle. Konsep-konsep yang digunakan antara lain kaidah dasar menghitung, kombinasi, teori graf dan implementasinya. Pada permainan Glass Stepping Stones, algoritma Breadth First Search (BFS) diimplementasikan dalam program untuk menemukan jalur yang aman dan menjamin jalur tersebut merupakan jalur terpendek.
